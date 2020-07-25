@@ -1,9 +1,10 @@
 # YetAnotherThermalCamera
-Melexis MLX90640 Thermal Sensor Based Thermal Camera
+Melexis MLX90640 Thermal Sensor Based Thermal Camera Project Documentation
 
 
 
 The project details Blog Post can be found at,
+http://analoghome.blogspot.com/2020/07/yatc-yet-another-thermal-camera.html
 
 
 Note: This code / hardware is presented for educational purposes only. It is not an "Build It" kind of Kit or documented that way. While the project can be built from the information presented here, it would take an advanced do it yourself kind of person to do that.
