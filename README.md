@@ -1,7 +1,7 @@
 # YetAnotherThermalCamera
 Melexis MLX90640 Thermal Sensor Based Thermal Camera Project Documentation
 
-https://github.com/Hagtronics/YetAnotherThermalCamera/blob/master/thermocam_sm.jpg
+![Drag Racing](https://github.com/Hagtronics/YetAnotherThermalCamera/blob/master/thermocam_sm.jpg)
 
 The project details Blog Post can be found at,
 http://analoghome.blogspot.com/2020/07/yatc-yet-another-thermal-camera.html
