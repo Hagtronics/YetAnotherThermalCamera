@@ -6,9 +6,9 @@ Melexis MLX90640 Thermal Sensor Based Thermal Camera
 The project details Blog Post can be found at,
 
 
-Note: This code / harware is presented for educational purposes only. It is not an Build It kind of Kit documentqtion. While the project could be built from the information presented here, it would take an advanced do it yourselfer to do that.
+Note: This code / hardware is presented for educational purposes only. It is not an "Build It" kind of Kit or documented that way. While the project can be built from the information presented here, it would take an advanced do it yourself kind of person to do that.
 
-Most of the project is licensed unser the: "Do whatever you want with it" license. However there are third party drivers and their license in in the respective source files text.
+Most of the project is licensed under the: "Do whatever you want with it" license. However there are third party drivers and their license in in the respective source files text.
 
 Notes:
 The Firmware is meant to be compiled with the following setup,
