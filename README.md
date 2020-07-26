@@ -17,10 +17,10 @@ The Firmware is meant to be compiled with the following setup,
   * Microchip XC32 V2.41
   * The project path should be this on your hard drive: "C:\microchip\Projects\ThermalCam_Melexis_V2"
   
-The PCB was designed with Altium Designer V20.x, the schematic is in the PCB.zip file in Altium and as a pdf output for easy viewing. The Altium fils can be viewed with the Altium Online Viewer.
+The PCB was designed with Altium Designer V20.x, the schematic is in the PCB.zip file in Altium and as a pdf output for easy viewing. The Altium files can be viewed with the Altium Online Viewer.
 
 The 3D printed housing was designed with Design Spark Mechanical V5.x.
 
-Thanks to Melexis for making the sensor that made this all possible and to Adafruit for suplying really cool parts that make projects fun and easy to do.
+Thanks to Melexis for making the sensor that made this all possible and to Adafruit for supplying really cool parts that make projects fun and easy to do.
 
 -- End --
